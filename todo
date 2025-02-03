@@ -1,0 +1,9 @@
+List animaux user / boucle for jusqu' une date
+update poids avec son alimentation correspondant
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Steve-Daniel24/WebFinal.git
+git push -u origin main
